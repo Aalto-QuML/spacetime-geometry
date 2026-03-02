@@ -1,3 +1,3 @@
-# Spacetime Geometry of Denoising in Diffusion Models
+# The Spacetime of Diffusion Models: An Information Geometry Perspective
 
 The code is maintained [here](https://github.com/rafalkarczewski/spacetime-geometry).
